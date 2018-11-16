@@ -15,7 +15,7 @@ GPIO.setup(25, GPIO.OUT)#LED
 ##############################################
 GPIO.setup(13, GPIO.OUT)#Ue_1CH.OUT1,2
 GPIO.setup(19, GPIO.OUT)#Ue_1CH.OUT3,4
-GPIO.setup(26, GPIO.OUT)#Ue_2CH.OUT1,2
+#GPIO.setup(26, GPIO.OUT)#Ue_2CH.OUT1,2
 GPIO.setup(20, GPIO.OUT)#Ue_2CH.OUT3,4
 ##############################################
 GPIO.setup(17, GPIO.OUT)#Shita_1CH.OUT1,2_2
